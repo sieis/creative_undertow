@@ -1,0 +1,106 @@
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(165, 165, 165, 0), rgba(165, 165, 165, 0.75), rgba(165, 165, 165, 0));
+    max-width: 400px;
+}
+
+html{
+	height: 100%;
+}
+.grit{
+    font-family: 'Nunito Sans', sans-serif;
+}
+#main{
+	text-align: center;
+	padding-top:15%;
+    color:whitesmoke;
+}
+
+.b{
+    font-size: 1.5em;
+}
+
+body{
+    /* text-align: center; */
+    color: #6c757d;
+    /* font-family: proxima-nova, sans-serif; */
+    font-family: 'Poppins', sans-serif;    
+}
+
+h1{
+	font-weight: 700;
+	font-size: 3em;
+}
+
+input{
+    background: green;
+}
+
+.btn-outline-dark{
+    border-color: #e3e7eb ;
+    color: #6c757d;
+    margin-bottom: 1px;
+}
+
+
+.new-title{
+    /* color: #6c757d; */
+    color: #0acf97;
+    text-decoration: none;
+}
+
+.card-title a{
+    text-decoration: none;
+}
+.card-title a:hover{
+    text-decoration: none;
+    color: #343a40;
+}
+
+
+.card{
+    box-shadow: 10px 10px 15px 0px #e3e7eb;
+    border: none;
+    /* border-radius: 0; */
+}
+
+.card-subtitle{
+    font-weight: 400;
+    color: #6c757d !important;
+}
+
+.coffee{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.navbar-brand{
+    color: #6c757d !important;
+}
+
+.clear{
+    box-shadow: 10px 10px 15px 0px #e3e7eb;
+}
+
+#mc_embed_signup_scroll{
+    margin-top: 7px;
+    text-align: left;
+    min-width: 250px;
+}
+
+input{
+    box-shadow: 10px 10px 15px 0px #e3e7eb;
+    border-bottom: .5px solid #e3e7eb!important;
+    border-right: .5px solid #e3e7eb!important;
+    border-left: none!important;
+    border-top: none!important;
+}
+
+#embed-player{
+    box-shadow: none!important;
+    color: red!important;
+}
+
+
+
